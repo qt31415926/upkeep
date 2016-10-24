@@ -1,0 +1,16 @@
+{
+  "email": "dummyGmail@gmail.com",
+  "intervalMinutes": 1,
+  "sites": [
+    {
+      "url": "https://www.google.ca",
+      "text": "Google.ca offered in",
+      "recipientEmail": "dummyRecipient@gmail.com"
+    },
+    {
+      "url": "https://www.facebook.com",
+      "text": "Bla bla bla this doens't exist on faebock",
+      "recipientEmail": "dummyRecipient2@gmail.com"
+    }
+  ]
+}
